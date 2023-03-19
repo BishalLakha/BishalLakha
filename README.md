@@ -1,7 +1,7 @@
 ## Hi there, This is Bishal 👋
 I am a Machine Learning Engineer ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BishalLakha&show_icons=true&theme=radical&hide=prs,issues&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BishalLakha&show_icons=true&theme=buefy&hide=prs,issues&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BishalLakha&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Books I've Read Recently 🤓
