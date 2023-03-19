@@ -1,6 +1,9 @@
 ## Hi there, This is Bishal 👋
 I am a Machine Learning Engineer ...
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BishalLakha&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
 - [The Lifecycle of Software Objects](https://www.goodreads.com/review/show/5383467106?utm_medium=api&utm_source=rss) by Ted Chiang (⭐️3.93)
