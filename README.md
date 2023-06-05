@@ -6,7 +6,7 @@ I am a Machine Learning Engineer ...
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Lifecycle of Software Objects](https://www.goodreads.com/review/show/5383467106?utm_medium=api&utm_source=rss) by Ted Chiang (⭐️3.93)
+- [The Lifecycle of Software Objects](https://www.goodreads.com/review/show/5383467106?utm_medium=api&utm_source=rss) by Ted Chiang (⭐️3.92)
 - [Gitanjali: Song Offerings](https://www.goodreads.com/review/show/2034653644?utm_medium=api&utm_source=rss) by Rabindranath Tagore (⭐️4.66)
 - [Chaos](https://www.goodreads.com/review/show/4091958826?utm_medium=api&utm_source=rss) by James Gleick (⭐️3.96)
 - [The Gene: An Intimate History](https://www.goodreads.com/review/show/2005106051?utm_medium=api&utm_source=rss) by Siddhartha Mukherjee (⭐️4.34)
