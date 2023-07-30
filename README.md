@@ -6,6 +6,7 @@ I am a Machine Learning Engineer ...
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
+- [I Haven't Dreamed of Flying for a While](https://www.goodreads.com/review/show/2165526512?utm_medium=api&utm_source=rss) by Taichi Yamada (⭐️3.51)
 - [The Lifecycle of Software Objects](https://www.goodreads.com/review/show/5383467106?utm_medium=api&utm_source=rss) by Ted Chiang (⭐️3.92)
 - [Gitanjali: Song Offerings](https://www.goodreads.com/review/show/2034653644?utm_medium=api&utm_source=rss) by Rabindranath Tagore (⭐️4.66)
 - [Chaos](https://www.goodreads.com/review/show/4091958826?utm_medium=api&utm_source=rss) by James Gleick (⭐️3.97)
@@ -15,7 +16,6 @@ I am a Machine Learning Engineer ...
 - [The Evolution Of Desire: Strategies of Human Mating](https://www.goodreads.com/review/show/3314132167?utm_medium=api&utm_source=rss) by David M. Buss (⭐️4.15)
 - [Of Mice and Men](https://www.goodreads.com/review/show/3317733936?utm_medium=api&utm_source=rss) by John Steinbeck (⭐️3.87)
 - [अन्तर्मुखी [Antarmukhi]](https://www.goodreads.com/review/show/3247372536?utm_medium=api&utm_source=rss) by Parijat (⭐️3.73)
-- [सगरमाथाको गहिराइ [Sagarmathako Gahirai]](https://www.goodreads.com/review/show/2038739180?utm_medium=api&utm_source=rss) by Nawaraj Parajuli (⭐️4.03)
 <!-- GOODREADS-LIST:END -->
 
 <!--
