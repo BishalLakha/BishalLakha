@@ -6,8 +6,9 @@ I am a Machine Learning Engineer ...
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
+- [Adult Piano Adventures All-In-One Lesson Book 1: A Comprehensive Piano Course](https://www.goodreads.com/review/show/5975416690?utm_medium=api&utm_source=rss) by Nancy Faber (⭐️4.1)
 - [I Haven't Dreamed of Flying for a While](https://www.goodreads.com/review/show/2165526512?utm_medium=api&utm_source=rss) by Taichi Yamada (⭐️3.51)
-- [The Lifecycle of Software Objects](https://www.goodreads.com/review/show/5383467106?utm_medium=api&utm_source=rss) by Ted Chiang (⭐️3.92)
+- [The Lifecycle of Software Objects](https://www.goodreads.com/review/show/5383467106?utm_medium=api&utm_source=rss) by Ted Chiang (⭐️3.93)
 - [Gitanjali: Song Offerings](https://www.goodreads.com/review/show/2034653644?utm_medium=api&utm_source=rss) by Rabindranath Tagore (⭐️4.66)
 - [Chaos](https://www.goodreads.com/review/show/4091958826?utm_medium=api&utm_source=rss) by James Gleick (⭐️3.97)
 - [The Gene: An Intimate History](https://www.goodreads.com/review/show/2005106051?utm_medium=api&utm_source=rss) by Siddhartha Mukherjee (⭐️4.34)
@@ -15,7 +16,6 @@ I am a Machine Learning Engineer ...
 - [Livewired: The Inside Story of the Ever-Changing Brain](https://www.goodreads.com/review/show/3517809592?utm_medium=api&utm_source=rss) by David Eagleman (⭐️4.19)
 - [The Evolution Of Desire: Strategies of Human Mating](https://www.goodreads.com/review/show/3314132167?utm_medium=api&utm_source=rss) by David M. Buss (⭐️4.16)
 - [Of Mice and Men](https://www.goodreads.com/review/show/3317733936?utm_medium=api&utm_source=rss) by John Steinbeck (⭐️3.88)
-- [अन्तर्मुखी [Antarmukhi]](https://www.goodreads.com/review/show/3247372536?utm_medium=api&utm_source=rss) by Parijat (⭐️3.65)
 <!-- GOODREADS-LIST:END -->
 
 <!--
