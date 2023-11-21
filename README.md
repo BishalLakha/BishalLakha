@@ -6,7 +6,7 @@ I am a Machine Learning Engineer ...
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
-- [Adult Piano Adventures All-In-One Lesson Book 1: A Comprehensive Piano Course](https://www.goodreads.com/review/show/5975416690?utm_medium=api&utm_source=rss) by Nancy Faber (⭐️4.1)
+- [Adult Piano Adventures All-In-One Lesson Book 1: A Comprehensive Piano Course](https://www.goodreads.com/review/show/5975416690?utm_medium=api&utm_source=rss) by Nancy Faber (⭐️4.12)
 - [I Haven't Dreamed of Flying for a While](https://www.goodreads.com/review/show/2165526512?utm_medium=api&utm_source=rss) by Taichi Yamada (⭐️3.51)
 - [The Lifecycle of Software Objects](https://www.goodreads.com/review/show/5383467106?utm_medium=api&utm_source=rss) by Ted Chiang (⭐️3.92)
 - [Gitanjali: Song Offerings](https://www.goodreads.com/review/show/2034653644?utm_medium=api&utm_source=rss) by Rabindranath Tagore (⭐️4.66)
