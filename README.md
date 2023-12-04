@@ -6,6 +6,7 @@ I am a Machine Learning Engineer ...
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
+- [Justice: What's the Right Thing to Do?](https://www.goodreads.com/review/show/2030879468?utm_medium=api&utm_source=rss) by Michael J. Sandel (⭐️4.35)
 - [Adult Piano Adventures All-In-One Lesson Book 1: A Comprehensive Piano Course](https://www.goodreads.com/review/show/5975416690?utm_medium=api&utm_source=rss) by Nancy Faber (⭐️4.12)
 - [I Haven't Dreamed of Flying for a While](https://www.goodreads.com/review/show/2165526512?utm_medium=api&utm_source=rss) by Taichi Yamada (⭐️3.51)
 - [The Lifecycle of Software Objects](https://www.goodreads.com/review/show/5383467106?utm_medium=api&utm_source=rss) by Ted Chiang (⭐️3.93)
@@ -15,7 +16,6 @@ I am a Machine Learning Engineer ...
 - [The Difficulty of Being Good: On the Subtle Art of Dharma](https://www.goodreads.com/review/show/3921841120?utm_medium=api&utm_source=rss) by Gurcharan Das (⭐️4.1)
 - [Livewired: The Inside Story of the Ever-Changing Brain](https://www.goodreads.com/review/show/3517809592?utm_medium=api&utm_source=rss) by David Eagleman (⭐️4.19)
 - [The Evolution Of Desire: Strategies of Human Mating](https://www.goodreads.com/review/show/3314132167?utm_medium=api&utm_source=rss) by David M. Buss (⭐️4.16)
-- [Of Mice and Men](https://www.goodreads.com/review/show/3317733936?utm_medium=api&utm_source=rss) by John Steinbeck (⭐️3.88)
 <!-- GOODREADS-LIST:END -->
 
 <!--
