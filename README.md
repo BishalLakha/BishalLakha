@@ -6,6 +6,7 @@ I am a Phd Student working on graph representation learning and explainability .
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
+- [Before the Coffee Gets Cold (Before the Coffee Gets Cold, #1)](https://www.goodreads.com/review/show/6046796477?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.71)
 - [Justice: What's the Right Thing to Do?](https://www.goodreads.com/review/show/2030879468?utm_medium=api&utm_source=rss) by Michael J. Sandel (⭐️4.35)
 - [Adult Piano Adventures All-In-One Lesson Book 1: A Comprehensive Piano Course](https://www.goodreads.com/review/show/5975416690?utm_medium=api&utm_source=rss) by Nancy Faber (⭐️4.12)
 - [I Haven't Dreamed of Flying for a While](https://www.goodreads.com/review/show/2165526512?utm_medium=api&utm_source=rss) by Taichi Yamada (⭐️3.51)
@@ -15,7 +16,6 @@ I am a Phd Student working on graph representation learning and explainability .
 - [The Gene: An Intimate History](https://www.goodreads.com/review/show/2005106051?utm_medium=api&utm_source=rss) by Siddhartha Mukherjee (⭐️4.34)
 - [The Difficulty of Being Good: On the Subtle Art of Dharma](https://www.goodreads.com/review/show/3921841120?utm_medium=api&utm_source=rss) by Gurcharan Das (⭐️4.1)
 - [Livewired: The Inside Story of the Ever-Changing Brain](https://www.goodreads.com/review/show/3517809592?utm_medium=api&utm_source=rss) by David Eagleman (⭐️4.19)
-- [The Evolution Of Desire: Strategies of Human Mating](https://www.goodreads.com/review/show/3314132167?utm_medium=api&utm_source=rss) by David M. Buss (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 
 <!--
