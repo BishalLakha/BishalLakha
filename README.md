@@ -1,5 +1,5 @@
 ## Hi there, This is Bishal 👋
-I am a Machine Learning Engineer ...
+I am a Phd Student working on graph representation learning and explainability ...
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BishalLakha&show_icons=true&theme=buefy&hide=prs,issues&count_private=true)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BishalLakha&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
