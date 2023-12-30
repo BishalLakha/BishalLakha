@@ -6,16 +6,16 @@ I am a Phd Student working on graph representation learning and explainability .
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
+- [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/1964700798?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.04)
+- [The Third Chimpanzee: The Evolution and Future of the Human Animal](https://www.goodreads.com/review/show/1964709004?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.07)
+- [आफ्नो कथा [Aafno Katha]](https://www.goodreads.com/review/show/1856883273?utm_medium=api&utm_source=rss) by Bishweshwar Prasad Koirala (⭐️4.55)
+- [Love in the Time of Cholera](https://www.goodreads.com/review/show/1827702382?utm_medium=api&utm_source=rss) by Gabriel García Márquez (⭐️3.91)
+- [घुम्ने मेचमाथि अन्धो मान्छे [Ghumne Mech Mathi Andho Manche]](https://www.goodreads.com/review/show/1809838295?utm_medium=api&utm_source=rss) by Bhupi Sherchan (⭐️4.36)
+- [What I Talk About When I Talk About Running](https://www.goodreads.com/review/show/1624600214?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐️3.87)
+- [Siddhartha](https://www.goodreads.com/review/show/1096151154?utm_medium=api&utm_source=rss) by Hermann Hesse (⭐️4.06)
 - [The Three-Body Problem (Remembrance of Earth’s Past, #1)](https://www.goodreads.com/review/show/6032764889?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.08)
 - [Before the Coffee Gets Cold (Before the Coffee Gets Cold, #1)](https://www.goodreads.com/review/show/6046796477?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.71)
 - [Justice: What's the Right Thing to Do?](https://www.goodreads.com/review/show/2030879468?utm_medium=api&utm_source=rss) by Michael J. Sandel (⭐️4.35)
-- [Adult Piano Adventures All-In-One Lesson Book 1: A Comprehensive Piano Course](https://www.goodreads.com/review/show/5975416690?utm_medium=api&utm_source=rss) by Nancy Faber (⭐️4.16)
-- [I Haven't Dreamed of Flying for a While](https://www.goodreads.com/review/show/2165526512?utm_medium=api&utm_source=rss) by Taichi Yamada (⭐️3.51)
-- [The Lifecycle of Software Objects](https://www.goodreads.com/review/show/5383467106?utm_medium=api&utm_source=rss) by Ted Chiang (⭐️3.92)
-- [Gitanjali: Song Offerings](https://www.goodreads.com/review/show/2034653644?utm_medium=api&utm_source=rss) by Rabindranath Tagore (⭐️4.66)
-- [Chaos](https://www.goodreads.com/review/show/4091958826?utm_medium=api&utm_source=rss) by James Gleick (⭐️3.96)
-- [The Gene: An Intimate History](https://www.goodreads.com/review/show/2005106051?utm_medium=api&utm_source=rss) by Siddhartha Mukherjee (⭐️4.34)
-- [The Difficulty of Being Good: On the Subtle Art of Dharma](https://www.goodreads.com/review/show/3921841120?utm_medium=api&utm_source=rss) by Gurcharan Das (⭐️4.1)
 <!-- GOODREADS-LIST:END -->
 
 <!--
