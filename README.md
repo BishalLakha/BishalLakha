@@ -6,7 +6,7 @@ I am a Phd Student working on graph representation learning and explainability .
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
-- [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/1964700798?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.04)
+- [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/1964700798?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.03)
 - [The Third Chimpanzee: The Evolution and Future of the Human Animal](https://www.goodreads.com/review/show/1964709004?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.07)
 - [आफ्नो कथा [Aafno Katha]](https://www.goodreads.com/review/show/1856883273?utm_medium=api&utm_source=rss) by Bishweshwar Prasad Koirala (⭐️4.55)
 - [Love in the Time of Cholera](https://www.goodreads.com/review/show/1827702382?utm_medium=api&utm_source=rss) by Gabriel García Márquez (⭐️3.91)
