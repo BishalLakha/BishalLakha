@@ -15,7 +15,7 @@ I am a Phd Student working on graph representation learning and explainability .
 - [Siddhartha](https://www.goodreads.com/review/show/1096151154?utm_medium=api&utm_source=rss) by Hermann Hesse (⭐️4.06)
 - [The Three-Body Problem (Remembrance of Earth’s Past, #1)](https://www.goodreads.com/review/show/6032764889?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.08)
 - [Before the Coffee Gets Cold (Before the Coffee Gets Cold, #1)](https://www.goodreads.com/review/show/6046796477?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.71)
-- [Justice: What's the Right Thing to Do?](https://www.goodreads.com/review/show/2030879468?utm_medium=api&utm_source=rss) by Michael J. Sandel (⭐️4.35)
+- [Justice: What's the Right Thing to Do?](https://www.goodreads.com/review/show/2030879468?utm_medium=api&utm_source=rss) by Michael J. Sandel (⭐️4.34)
 <!-- GOODREADS-LIST:END -->
 
 <!--
