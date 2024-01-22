@@ -6,6 +6,7 @@ I am a Phd Student working on graph representation learning and explainability .
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
+- [Buddha, Vol. 1: Kapilavastu (Buddha #1)](https://www.goodreads.com/review/show/6179288782?utm_medium=api&utm_source=rss) by Osamu Tezuka (⭐️4.18)
 - [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/1964700798?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.03)
 - [The Third Chimpanzee: The Evolution and Future of the Human Animal](https://www.goodreads.com/review/show/1964709004?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.07)
 - [आफ्नो कथा [Aafno Katha]](https://www.goodreads.com/review/show/1856883273?utm_medium=api&utm_source=rss) by Bishweshwar Prasad Koirala (⭐️4.55)
@@ -15,7 +16,6 @@ I am a Phd Student working on graph representation learning and explainability .
 - [Siddhartha](https://www.goodreads.com/review/show/1096151154?utm_medium=api&utm_source=rss) by Hermann Hesse (⭐️4.06)
 - [The Three-Body Problem (Remembrance of Earth’s Past, #1)](https://www.goodreads.com/review/show/6032764889?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.08)
 - [Before the Coffee Gets Cold (Before the Coffee Gets Cold, #1)](https://www.goodreads.com/review/show/6046796477?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.71)
-- [Justice: What's the Right Thing to Do?](https://www.goodreads.com/review/show/2030879468?utm_medium=api&utm_source=rss) by Michael J. Sandel (⭐️4.34)
 <!-- GOODREADS-LIST:END -->
 
 <!--
