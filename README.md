@@ -6,6 +6,7 @@ I am a Phd Student working on graph representation learning and explainability .
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Dark Forest (Remembrance of Earth’s Past, #2)](https://www.goodreads.com/review/show/6099703639?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.41)
 - [Buddha, Vol. 1: Kapilavastu (Buddha #1)](https://www.goodreads.com/review/show/6179288782?utm_medium=api&utm_source=rss) by Osamu Tezuka (⭐️4.18)
 - [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/1964700798?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.03)
 - [The Third Chimpanzee: The Evolution and Future of the Human Animal](https://www.goodreads.com/review/show/1964709004?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.07)
@@ -15,7 +16,6 @@ I am a Phd Student working on graph representation learning and explainability .
 - [What I Talk About When I Talk About Running](https://www.goodreads.com/review/show/1624600214?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐️3.87)
 - [Siddhartha](https://www.goodreads.com/review/show/1096151154?utm_medium=api&utm_source=rss) by Hermann Hesse (⭐️4.06)
 - [The Three-Body Problem (Remembrance of Earth’s Past, #1)](https://www.goodreads.com/review/show/6032764889?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.08)
-- [Before the Coffee Gets Cold (Before the Coffee Gets Cold, #1)](https://www.goodreads.com/review/show/6046796477?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.71)
 <!-- GOODREADS-LIST:END -->
 
 <!--
