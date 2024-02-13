@@ -8,7 +8,7 @@ I am a Phd Student working on graph representation learning and explainability .
 <!-- GOODREADS-LIST:START -->
 - [The Dark Forest (Remembrance of Earth’s Past, #2)](https://www.goodreads.com/review/show/6099703639?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.41)
 - [Buddha, Vol. 1: Kapilavastu (Buddha #1)](https://www.goodreads.com/review/show/6179288782?utm_medium=api&utm_source=rss) by Osamu Tezuka (⭐️4.18)
-- [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/1964700798?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.03)
+- [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/1964700798?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.04)
 - [The Third Chimpanzee: The Evolution and Future of the Human Animal](https://www.goodreads.com/review/show/1964709004?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.07)
 - [आफ्नो कथा [Aafno Katha]](https://www.goodreads.com/review/show/1856883273?utm_medium=api&utm_source=rss) by Bishweshwar Prasad Koirala (⭐️4.55)
 - [Love in the Time of Cholera](https://www.goodreads.com/review/show/1827702382?utm_medium=api&utm_source=rss) by Gabriel García Márquez (⭐️3.92)
