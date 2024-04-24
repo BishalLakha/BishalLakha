@@ -6,6 +6,7 @@ I am a Phd Student working on graph representation learning and explainability .
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
+- [Tarkash (Hindi)](https://www.goodreads.com/review/show/6436924816?utm_medium=api&utm_source=rss) by Javed Akhtar (⭐️4.15)
 - [Buddha, Vol. 2: The Four Encounters  (Buddha #2)](https://www.goodreads.com/review/show/6297266339?utm_medium=api&utm_source=rss) by Osamu Tezuka (⭐️4.25)
 - [Death's End (Remembrance of Earth’s Past, #3)](https://www.goodreads.com/review/show/6099704898?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.41)
 - [The Dark Forest (Remembrance of Earth’s Past, #2)](https://www.goodreads.com/review/show/6099703639?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.41)
@@ -15,7 +16,6 @@ I am a Phd Student working on graph representation learning and explainability .
 - [आफ्नो कथा [Aafno Katha]](https://www.goodreads.com/review/show/1856883273?utm_medium=api&utm_source=rss) by Bishweshwar Prasad Koirala (⭐️4.55)
 - [Love in the Time of Cholera](https://www.goodreads.com/review/show/1827702382?utm_medium=api&utm_source=rss) by Gabriel García Márquez (⭐️3.92)
 - [घुम्ने मेचमाथि अन्धो मान्छे [Ghumne Mech Mathi Andho Manche]](https://www.goodreads.com/review/show/1809838295?utm_medium=api&utm_source=rss) by Bhupi Sherchan (⭐️4.38)
-- [What I Talk About When I Talk About Running](https://www.goodreads.com/review/show/1624600214?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐️3.87)
 <!-- GOODREADS-LIST:END -->
 
 <!--
