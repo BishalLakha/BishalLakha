@@ -13,7 +13,7 @@ I am a Phd Student working on graph representation learning and explainability .
 - [Buddha, Vol. 1: Kapilavastu (Buddha #1)](https://www.goodreads.com/review/show/6179288782?utm_medium=api&utm_source=rss) by Osamu Tezuka (⭐️4.18)
 - [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/1964700798?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.04)
 - [The Third Chimpanzee: The Evolution and Future of the Human Animal](https://www.goodreads.com/review/show/1964709004?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.07)
-- [आफ्नो कथा [Aafno Katha]](https://www.goodreads.com/review/show/1856883273?utm_medium=api&utm_source=rss) by Bishweshwar Prasad Koirala (⭐️4.55)
+- [आफ्नो कथा [Aafno Katha]](https://www.goodreads.com/review/show/1856883273?utm_medium=api&utm_source=rss) by Bishweshwar Prasad Koirala (⭐️4.52)
 - [Love in the Time of Cholera](https://www.goodreads.com/review/show/1827702382?utm_medium=api&utm_source=rss) by Gabriel García Márquez (⭐️3.92)
 - [घुम्ने मेचमाथि अन्धो मान्छे [Ghumne Mech Mathi Andho Manche]](https://www.goodreads.com/review/show/1809838295?utm_medium=api&utm_source=rss) by Bhupi Sherchan (⭐️4.37)
 <!-- GOODREADS-LIST:END -->
