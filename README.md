@@ -6,6 +6,7 @@ I am a Phd Student working on graph representation learning and explainability .
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
+- [Days at the Morisaki Bookshop (Days at the Morisaki Bookshop, #1)](https://www.goodreads.com/review/show/6466827706?utm_medium=api&utm_source=rss) by Satoshi Yagisawa (⭐️3.69)
 - [Tarkash (Hindi)](https://www.goodreads.com/review/show/6436924816?utm_medium=api&utm_source=rss) by Javed Akhtar (⭐️4.15)
 - [Buddha, Vol. 2: The Four Encounters  (Buddha #2)](https://www.goodreads.com/review/show/6297266339?utm_medium=api&utm_source=rss) by Osamu Tezuka (⭐️4.25)
 - [Death's End (Remembrance of Earth’s Past, #3)](https://www.goodreads.com/review/show/6099704898?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.41)
@@ -15,7 +16,6 @@ I am a Phd Student working on graph representation learning and explainability .
 - [The Third Chimpanzee: The Evolution and Future of the Human Animal](https://www.goodreads.com/review/show/1964709004?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.07)
 - [आफ्नो कथा [Aafno Katha]](https://www.goodreads.com/review/show/1856883273?utm_medium=api&utm_source=rss) by Bishweshwar Prasad Koirala (⭐️4.52)
 - [Love in the Time of Cholera](https://www.goodreads.com/review/show/1827702382?utm_medium=api&utm_source=rss) by Gabriel García Márquez (⭐️3.92)
-- [घुम्ने मेचमाथि अन्धो मान्छे [Ghumne Mech Mathi Andho Manche]](https://www.goodreads.com/review/show/1809838295?utm_medium=api&utm_source=rss) by Bhupi Sherchan (⭐️4.38)
 <!-- GOODREADS-LIST:END -->
 
 <!--
