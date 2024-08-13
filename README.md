@@ -6,16 +6,16 @@ I am a Phd Student working on graph representation learning and explainability .
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Hunger Games (The Hunger Games, #1)](https://www.goodreads.com/review/show/1096168223?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.33)
+- [Catching Fire (The Hunger Games, #2)](https://www.goodreads.com/review/show/6756335942?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.33)
+- [Mockingjay (The Hunger Games, #3)](https://www.goodreads.com/review/show/6756333847?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.08)
+- [The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)](https://www.goodreads.com/review/show/2049691140?utm_medium=api&utm_source=rss) by Douglas Adams (⭐️4.13)
+- [The Lifecycle of Software Objects](https://www.goodreads.com/review/show/5383467106?utm_medium=api&utm_source=rss) by Ted Chiang (⭐️3.93)
+- [The Three-Body Problem (Remembrance of Earth’s Past, #1)](https://www.goodreads.com/review/show/6032764889?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.08)
+- [The Dark Forest (Remembrance of Earth’s Past, #2)](https://www.goodreads.com/review/show/6099703639?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.4)
+- [Death's End (Remembrance of Earth’s Past, #3)](https://www.goodreads.com/review/show/6099704898?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.4)
 - [Mother](https://www.goodreads.com/review/show/6741118550?utm_medium=api&utm_source=rss) by Maxim Gorky (⭐️3.96)
 - [Days at the Morisaki Bookshop (Days at the Morisaki Bookshop, #1)](https://www.goodreads.com/review/show/6466827706?utm_medium=api&utm_source=rss) by Satoshi Yagisawa (⭐️3.68)
-- [Tarkash (Hindi)](https://www.goodreads.com/review/show/6436924816?utm_medium=api&utm_source=rss) by Javed Akhtar (⭐️4.16)
-- [Buddha, Vol. 2: The Four Encounters  (Buddha #2)](https://www.goodreads.com/review/show/6297266339?utm_medium=api&utm_source=rss) by Osamu Tezuka (⭐️4.25)
-- [Death's End (Remembrance of Earth’s Past, #3)](https://www.goodreads.com/review/show/6099704898?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.4)
-- [The Dark Forest (Remembrance of Earth’s Past, #2)](https://www.goodreads.com/review/show/6099703639?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.4)
-- [Buddha, Vol. 1: Kapilavastu (Buddha #1)](https://www.goodreads.com/review/show/6179288782?utm_medium=api&utm_source=rss) by Osamu Tezuka (⭐️4.18)
-- [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/1964700798?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.04)
-- [The Third Chimpanzee: The Evolution and Future of the Human Animal](https://www.goodreads.com/review/show/1964709004?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.07)
-- [आफ्नो कथा [Aafno Katha]](https://www.goodreads.com/review/show/1856883273?utm_medium=api&utm_source=rss) by Bishweshwar Prasad Koirala (⭐️4.52)
 <!-- GOODREADS-LIST:END -->
 
 <!--
