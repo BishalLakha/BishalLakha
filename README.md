@@ -10,7 +10,7 @@ I am a Phd Student working on graph representation learning and explainability .
 - [Catching Fire (The Hunger Games, #2)](https://www.goodreads.com/review/show/6756335942?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.33)
 - [Mockingjay (The Hunger Games, #3)](https://www.goodreads.com/review/show/6756333847?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.08)
 - [The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)](https://www.goodreads.com/review/show/2049691140?utm_medium=api&utm_source=rss) by Douglas Adams (⭐️4.13)
-- [The Lifecycle of Software Objects](https://www.goodreads.com/review/show/5383467106?utm_medium=api&utm_source=rss) by Ted Chiang (⭐️3.93)
+- [The Lifecycle of Software Objects](https://www.goodreads.com/review/show/5383467106?utm_medium=api&utm_source=rss) by Ted Chiang (⭐️3.92)
 - [The Three-Body Problem (Remembrance of Earth’s Past, #1)](https://www.goodreads.com/review/show/6032764889?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.08)
 - [The Dark Forest (Remembrance of Earth’s Past, #2)](https://www.goodreads.com/review/show/6099703639?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.4)
 - [Death's End (Remembrance of Earth’s Past, #3)](https://www.goodreads.com/review/show/6099704898?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.4)
