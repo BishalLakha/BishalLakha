@@ -6,6 +6,7 @@ I am a Phd Student working on graph representation learning and explainability .
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
+- [Project Hail Mary](https://www.goodreads.com/review/show/6730381183?utm_medium=api&utm_source=rss) by Andy Weir (⭐️4.5)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/1560957115?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.35)
 - [Modern China: A topical history](https://www.goodreads.com/review/show/1828612190?utm_medium=api&utm_source=rss) by Kaiming Su (⭐️4.5)
 - [A history of india by antonova](https://www.goodreads.com/review/show/2130252898?utm_medium=api&utm_source=rss) by G. kotovsky (⭐️5)
@@ -15,7 +16,6 @@ I am a Phd Student working on graph representation learning and explainability .
 - [Mockingjay (The Hunger Games, #3)](https://www.goodreads.com/review/show/6756333847?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.08)
 - [The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)](https://www.goodreads.com/review/show/2049691140?utm_medium=api&utm_source=rss) by Douglas Adams (⭐️4.13)
 - [The Lifecycle of Software Objects](https://www.goodreads.com/review/show/5383467106?utm_medium=api&utm_source=rss) by Ted Chiang (⭐️3.92)
-- [The Three-Body Problem (Remembrance of Earth’s Past, #1)](https://www.goodreads.com/review/show/6032764889?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.08)
 <!-- GOODREADS-LIST:END -->
 
 <!--
