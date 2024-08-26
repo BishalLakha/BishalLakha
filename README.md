@@ -6,7 +6,7 @@ I am a Phd Student working on graph representation learning and explainability .
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
-- [Project Hail Mary](https://www.goodreads.com/review/show/6730381183?utm_medium=api&utm_source=rss) by Andy Weir (⭐️4.5)
+- [Project Hail Mary](https://www.goodreads.com/review/show/6730381183?utm_medium=api&utm_source=rss) by Andy Weir (⭐️4.49)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/1560957115?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.35)
 - [Modern China: A topical history](https://www.goodreads.com/review/show/1828612190?utm_medium=api&utm_source=rss) by Kaiming Su (⭐️4.5)
 - [A history of india by antonova](https://www.goodreads.com/review/show/2130252898?utm_medium=api&utm_source=rss) by G. kotovsky (⭐️5)
