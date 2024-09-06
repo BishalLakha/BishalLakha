@@ -14,7 +14,7 @@ I am a Phd Student working on graph representation learning and explainability .
 - [The Origins of Political Order: From Prehuman Times to the French Revolution](https://www.goodreads.com/review/show/2342454798?utm_medium=api&utm_source=rss) by Francis Fukuyama (⭐️4.34)
 - [The Hunger Games (The Hunger Games, #1)](https://www.goodreads.com/review/show/1096168223?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.33)
 - [Catching Fire (The Hunger Games, #2)](https://www.goodreads.com/review/show/6756335942?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.33)
-- [Mockingjay (The Hunger Games, #3)](https://www.goodreads.com/review/show/6756333847?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.08)
+- [Mockingjay (The Hunger Games, #3)](https://www.goodreads.com/review/show/6756333847?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.09)
 - [The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)](https://www.goodreads.com/review/show/2049691140?utm_medium=api&utm_source=rss) by Douglas Adams (⭐️4.13)
 <!-- GOODREADS-LIST:END -->
 
