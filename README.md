@@ -6,7 +6,7 @@ I am a Phd Student working on graph representation learning and explainability .
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
-- [Before the Coffee Gets Cold (Before the Coffee Gets Cold, #1)](https://www.goodreads.com/review/show/6046796477?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.68)
+- [Before the Coffee Gets Cold (Before the Coffee Gets Cold, #1)](https://www.goodreads.com/review/show/6046796477?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.69)
 - [Project Hail Mary](https://www.goodreads.com/review/show/6730381183?utm_medium=api&utm_source=rss) by Andy Weir (⭐️4.49)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/1560957115?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.35)
 - [Modern China: A topical history](https://www.goodreads.com/review/show/1828612190?utm_medium=api&utm_source=rss) by Kaiming Su (⭐️4.5)
