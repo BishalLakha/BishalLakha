@@ -6,6 +6,7 @@ I am a Phd Student working on graph representation learning and explainability .
 
 ### Books I've Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
+- [Exhalation](https://www.goodreads.com/review/show/6825451572?utm_medium=api&utm_source=rss) by Ted Chiang (⭐️4.28)
 - [Before the Coffee Gets Cold (Before the Coffee Gets Cold, #1)](https://www.goodreads.com/review/show/6046796477?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.68)
 - [Project Hail Mary](https://www.goodreads.com/review/show/6730381183?utm_medium=api&utm_source=rss) by Andy Weir (⭐️4.49)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/1560957115?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.34)
@@ -15,7 +16,6 @@ I am a Phd Student working on graph representation learning and explainability .
 - [The Hunger Games (The Hunger Games, #1)](https://www.goodreads.com/review/show/1096168223?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.33)
 - [Catching Fire (The Hunger Games, #2)](https://www.goodreads.com/review/show/6756335942?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.33)
 - [Mockingjay (The Hunger Games, #3)](https://www.goodreads.com/review/show/6756333847?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.09)
-- [The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)](https://www.goodreads.com/review/show/2049691140?utm_medium=api&utm_source=rss) by Douglas Adams (⭐️4.13)
 <!-- GOODREADS-LIST:END -->
 
 <!--
