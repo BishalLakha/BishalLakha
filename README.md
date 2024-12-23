@@ -4,7 +4,7 @@ I am a Phd Student working on graph representation learning and explainability .
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BishalLakha&show_icons=true&theme=buefy&hide=prs,issues&count_private=true)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BishalLakha&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
-### Books I've Read Recently 🤓
+### Books I Read Recently 🤓
 <!-- GOODREADS-LIST:START -->
 - [Exhalation](https://www.goodreads.com/review/show/6825451572?utm_medium=api&utm_source=rss) by Ted Chiang (⭐️4.27)
 - [Before the Coffee Gets Cold (Before the Coffee Gets Cold, #1)](https://www.goodreads.com/review/show/6046796477?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.68)
