@@ -13,8 +13,8 @@ I am a Phd Student working on graph representation learning and explainability .
 - [Modern China: A topical history](https://www.goodreads.com/review/show/1828612190?utm_medium=api&utm_source=rss) by Kaiming Su (⭐️4.5)
 - [A history of india by antonova](https://www.goodreads.com/review/show/2130252898?utm_medium=api&utm_source=rss) by G. kotovsky (⭐️5)
 - [The Origins of Political Order: From Prehuman Times to the French Revolution](https://www.goodreads.com/review/show/2342454798?utm_medium=api&utm_source=rss) by Francis Fukuyama (⭐️4.33)
-- [The Hunger Games (The Hunger Games #1)](https://www.goodreads.com/review/show/1096168223?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.34)
-- [Catching Fire (The Hunger Games #2)](https://www.goodreads.com/review/show/6756335942?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.33)
+- [The Hunger Games (The Hunger Games, #1)](https://www.goodreads.com/review/show/1096168223?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.34)
+- [Catching Fire (The Hunger Games, #2)](https://www.goodreads.com/review/show/6756335942?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.33)
 - [Mockingjay (The Hunger Games, #3)](https://www.goodreads.com/review/show/6756333847?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.09)
 <!-- GOODREADS-LIST:END -->
 
